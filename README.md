@@ -1,6 +1,6 @@
-# Fullmaxemlak Dijital Yatırım Platformu
+# Fullmaxemlak | İstanbul Anadolu Yakası’nda Emlak Alım-Satım ve Dijital Yatırım Platformu
 
-Bu proje, yatırım odaklı gayrimenkul çözümleri sunan Fullmaxemlak için özel olarak tasarlanmıştır. WordPress altyapısı üzerine kurulu, dönüşüm optimizasyonlu ve harita entegrasyonlu bir dijital platformdur.
+Fullmaxemlak, İstanbul’un gelişen bölgelerinde gayrimenkul alım-satım, kiralama ve yatırım danışmanlığı hizmetleri sunar. Pendik, Tuzla, Fikirtepe, Beykoz ve Şile başta olmak üzere konut, arsa, ticari mülk ve proje alanlarında yerel bilgi, güçlü analiz ve güvenilir iletişim ile maksimum fayda sağlar. Platform, WordPress altyapısı ile harita entegrasyonu ve dönüşüm odaklı görsel şablonları birleştirerek dijital müşteri deneyimini üst seviyeye taşır.
 
 ## 🚀 Özellikler
 
